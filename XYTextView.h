@@ -10,7 +10,7 @@
 
 typedef void (^FrameChangeBlock)(CGRect rect);
 
-@interface XYTextView : UITextView //<UITextViewDelegate>
+@interface XYTextView : UITextView 
 
 -(void)setPlaceHolderString:(NSString *)placeHolder;
 

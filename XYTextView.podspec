@@ -7,7 +7,7 @@ s.homepage = 'https://github.com/damoncoo/XYTextView'
 s.authors = { 'Damon' => 'damoncoo@gmail.com' }
 s.source = { :git => 'https://github.com/damoncoo/XYTextView.git', :tag => 0.1 }
 s.requires_arc = true
-s.ios.deployment_target = '9.0'
+s.ios.deployment_target = '8.0'
 s.source_files = 'XYTextView.{h,m}'
 s.resources = 'LICENSE'
 end

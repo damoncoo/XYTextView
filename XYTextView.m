@@ -45,7 +45,7 @@ static char charBlock;
  *
  */
 -(void)awakeFromNib {
-    
+    [super awakeFromNib];
     self.maxLength = 0;
 //    [self addObserver:self forKeyPath:NSStringFromSelector(@selector(contentSize))
 //              options:NSKeyValueObservingOptionNew
