@@ -4,7 +4,6 @@
 //
 //  Created by BeiliaoIOSDev on 14/12/4.
 //  Copyright (c) 2014年 Cheng. All rights reserved.
-//这是版本0.0.2的注释
 
 #import <UIKit/UIKit.h>
 

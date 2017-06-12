@@ -268,7 +268,6 @@ static char charBlock;
 -(void)dealloc {
     
     [[NSNotificationCenter defaultCenter]removeObserver:self];
-//    [self removeObserver:self forKeyPath:@"contentSize"];
     
     UILabel *placeLabel = self.placeholderLabel;
     [placeLabel removeFromSuperview];
